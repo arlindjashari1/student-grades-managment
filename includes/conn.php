@@ -2,7 +2,7 @@
 session_start();
 
 $host = 'localhost';
-$dbname = 'student_grade_management';
+$dbname = 'students_grade_menagment';
 $username = 'root';
 $password = '';
 
